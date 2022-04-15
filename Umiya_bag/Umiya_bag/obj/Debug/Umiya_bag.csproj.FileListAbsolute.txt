@@ -1,0 +1,10 @@
+D:\study\BVM college\.net project\Umiya_bag\Umiya_bag\bin\Debug\Bakery_Software.exe.config
+D:\study\BVM college\.net project\Umiya_bag\Umiya_bag\bin\Debug\Bakery_Software.exe
+D:\study\BVM college\.net project\Umiya_bag\Umiya_bag\bin\Debug\Bakery_Software.pdb
+D:\study\BVM college\.net project\Umiya_bag\Umiya_bag\obj\Debug\Umiya_bag.csprojAssemblyReference.cache
+D:\study\BVM college\.net project\Umiya_bag\Umiya_bag\obj\Debug\Bakery_Software.Properties.Resources.resources
+D:\study\BVM college\.net project\Umiya_bag\Umiya_bag\obj\Debug\Umiya_bag.csproj.GenerateResource.cache
+D:\study\BVM college\.net project\Umiya_bag\Umiya_bag\obj\Debug\Umiya_bag.csproj.CoreCompileInputs.cache
+D:\study\BVM college\.net project\Umiya_bag\Umiya_bag\obj\Debug\Bakery_Software.exe
+D:\study\BVM college\.net project\Umiya_bag\Umiya_bag\obj\Debug\Bakery_Software.pdb
+D:\study\BVM college\.net project\Umiya_bag\Umiya_bag\obj\Debug\Umiya_bag.Form1.resources
